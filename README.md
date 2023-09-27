@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm TriNguyen
 
-<!--
-**trinct1412/trinct1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1367" alt="" src="https://drive.google.com/file/d/1626AVtKOJhgEgCbp9MDFAiDibYfqsrUG/view?usp=sharing">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Introduction
+
+I am a passionate and experienced developer with a strong background in software development and a love for creating innovative solutions. With a keen eye for detail and a commitment to delivering high-quality code, I strive to exceed expectations and contribute to the success of any project I work on.
+
+## Skills
+
+- **Programming Languages:** Python, JavaScript, Java
+- **Web Development:** HTML, CSS, React, Django
+- **Database:** MySQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Testing and Debugging:** Unit Testing, Debugging Tools
+- **Agile Methodologies:** Scrum, Kanban
+- **Problem-Solving:** Analytical Thinking, Troubleshooting
