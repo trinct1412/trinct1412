@@ -1,6 +1,6 @@
 # Hello, I'm TriNguyen
 
-<img width="1367" alt="" src="https://drive.google.com/file/d/1626AVtKOJhgEgCbp9MDFAiDibYfqsrUG/view?usp=sharing">
+<img width="1367" alt="" src="https://github.com/trinct1412/trinct1412/blob/main/banner.jpg">
 
 
 
