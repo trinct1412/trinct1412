@@ -21,9 +21,9 @@ I am a passionate and experienced developer with a strong background in software
 
 ## Tools
 
-- **Pycharm :**
-- **Navicat :**
-- **Docker Desktop :**
+- **Pycharm **
+- **Navicat **
+- **Docker Desktop **
 
 ## Contact
 
