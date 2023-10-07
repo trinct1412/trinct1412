@@ -11,7 +11,7 @@ I am a passionate and experienced developer with a strong background in software
 ## Skills
 
 - **Programming Languages:** Python
-- **Web Development:** Django
+- **Web Development:** Django, Fast Api
 - **Cloud :** Aws
 - **Database:** MySQL, Postgresql
 - **Version Control:** Git, GitHub
