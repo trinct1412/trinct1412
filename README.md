@@ -30,5 +30,5 @@ I am a passionate and experienced developer with a strong background in software
 - **Email:** trinct1412@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/trithien
 - **Website:** https://rmind-set.blogspot.com
-- **CV:** https://github.com/trinct1412/trinct1412/blob/main/CV.pdf
+- **CV:** https://cv.tri.software
 
